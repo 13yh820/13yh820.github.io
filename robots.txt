@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://13yh820.github.io/chotto-hima/sitemap.xml
